@@ -1,4 +1,5 @@
 # coding: utf-8
 
 require 'rspec'
-require 'nico_util'
+require 'rspec/collection_matchers'
+require 'nico_hash'
